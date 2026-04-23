@@ -2,6 +2,17 @@
 
 This project utilizes natural language processing to identify restuarant customer reviews as either positive or negative reviews.
 
+**Note for AI 100 Final Project Submission**
+
+This repo contains our work and outputs as well as the final deliverables. The final deliverables specifically are as follows:
+
+1. A Google Sheet or Microsoft Excel:  AI-100_Final.xlsx
+2. A PDF report:                       AI100-Final-Report.pdf
+3. Files for code:                     RestaurantReview_NLP.ipynb
+                                       (Data and outputs are also provided in respective folders)
+
+Additionally, I created a Bug Reflection Evaluator to help consolidate the steps of the final project before putting it in the spreadsheet. I will include that as well.
+
 **Objective**
 - Build automated system that can classify resturant reviews as positive or negative to help restaurant owners quickly understand customer sentiment.
 
