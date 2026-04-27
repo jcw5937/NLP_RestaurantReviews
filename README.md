@@ -7,8 +7,9 @@ This project utilizes natural language processing to identify restuarant custome
 This repo contains our work and outputs as well as the final deliverables. The final deliverables specifically are as follows:
 
 1. A Google Sheet or Microsoft Excel:  AI-100_Final.xlsx
-2. A PDF report:                       AI100-Final-Report.pdf
-3. Files for code:                     RestaurantReview_NLP.ipynb
+2. A Presentation on Bug Eval:         AI-100 Final Presentation.pptx
+3. A PDF report:                       AI100-Final-Report.pdf
+4. Files for code:                     RestaurantReview_NLP.ipynb
                                        (Data and outputs are also provided in respective folders)
 
 Additionally, I created a Bug Reflection Evaluator to help consolidate the steps of the final project before putting it in the spreadsheet. I will include that as well.
